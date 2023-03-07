@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1c2d2640-c5f4-40af-af1a-8e4ebda20d3d)
+
+  (paper "A3")
+
+  (title_block
+    (title "A.T.O.M PCB Badge")
+    (date "9th December 2022 ")
+    (company "A.T.O.M Robotics Lab")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
